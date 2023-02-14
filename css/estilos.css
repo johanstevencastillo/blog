@@ -3,6 +3,9 @@ body{
     text-align: center;
     font-family: Arial;
 }
-#contenido{
-    background-color: yellow;
+#cabecera{
+    background-color: brown;
+    color: aliceblue;
+    font-style: italic;
+
 }
